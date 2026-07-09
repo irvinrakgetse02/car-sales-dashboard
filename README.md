@@ -20,11 +20,11 @@ Data spans January 2022 to December 2022.
 
 ## Key Insights
 
-- **6.09M** total revenue and **783.60K** total profit across **234** units sold, spanning **10 brands** and **15 models**
-- The **3 Series** was the top-selling model by quantity (25 units, 23.36% of total volume), followed by the **Polo** and **Qashqai**
-- **Sedan** and **Hatchback** segments led in volume, but **Profit and Quantity diverged most in the Pickup segment**, where profit outpaced quantity by 241,961
-- **Gaborone, Botswana** accounted for **32.96%** of total revenue — the single largest contributing city
-- All 100% of revenue in this snapshot came from **Botswana**, with South Africa available as a filter for comparison
+- **9.04M** total revenue and **1.12M** total profit across **345** units sold, spanning **10 brands** and **15 models**
+- The **3 Series** was the top-selling model by quantity (33 units, 35.11% of total volume), followed by the **Qashqai** (32 units) and **Polo** (29 units)
+- **Botswana** contributed **6.09M (67.32%)** of total revenue, while **South Africa** contributed **2.96M (32.68%)**
+- **Profit and Quantity diverged most in the Sedan segment**, where profit outpaced quantity by 357,776
+- The dashboard supports interactive filtering by country and date range, with drill-through enabled for deeper segment analysis
 
 ## Tools & Techniques
 
